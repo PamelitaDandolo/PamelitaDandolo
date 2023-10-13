@@ -2,7 +2,7 @@
 
 ***
 
-**Sobre mim:**
+*<h3>Sobre mim:</h3>*
 
 - Estou em transição de carreira migrando para a área de Desenvolvimento Web Front-End
 - Muito orgulho em fazer parte da 11ª Turma do Bootcamp da [Laboratória](https://www.laboratoria.la/br) no Brasil
