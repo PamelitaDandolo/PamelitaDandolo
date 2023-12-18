@@ -4,7 +4,7 @@
 
 *<h3>Sobre mim:</h3>*
 
-- Deseovolvedora Web Front-End Júnior
+- Desenvolvedora Web Front-End Júnior
 - Muito orgulho em fazer parte da 11ª Turma do Bootcamp da [Laboratória](https://www.laboratoria.la/br) no Brasil
 - Estudando atualmente JavaScript e React
 - Me interesso por: Mobile, UX/UI Design, Acessibilidade
